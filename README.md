@@ -27,7 +27,7 @@ Vous enfourchez votre fier destrier, sortez des écuries au pas, traversez ce qu
 >    *Que la postérité n'en oublie pas une miette !*
 >
 >     git commit --amend
->    *Que le passé juste enfui soit comme l'argile encore fraiche !*
+>    *Que le passé juste enfoui soit comme l'argile encore fraiche !*
 >
 >     git reset HEAD --hard
 >    *Que le soleil remonte sa course et que tout ce qui fut fait soit défait !*
@@ -189,7 +189,7 @@ Prenez note de ce qui vous arrive :
 ## Le pont de l'épée
 
 Redescendant de la montagne, vous voyez devant vous le château du Roi Pêcheur.
-Vous aimeriez y pénétrer. Hélas, un torrent impétueux aux eaux noires comme la mort, vous barre le passage.
+Vous aimeriez y pénétrer. Hélas, un torrent impétueux, aux eaux noires comme la mort, vous barre le passage.
 
 Les rives ne sont pas très éloignées. Si seulement vous aviez un objet assez long et assez solide pour vous servir de pont...
 
