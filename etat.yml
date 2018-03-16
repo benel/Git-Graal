@@ -1,16 +1,16 @@
-lieu: fontaine
+lieu: montagne
 inventaire:
   - cheval
   - grimoire
   - lion
 personnages:
   - moi:
-    - santé: 8
+    - santé: 7
   - chevalier_noir:
     - santé: 15
   - lion:
-    - santé: 8
+    - santé: 7
   - serpent:
     - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
