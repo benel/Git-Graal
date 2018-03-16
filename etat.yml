@@ -1,8 +1,9 @@
-lieu: fontaine
+lieu: pont de l'épée
 inventaire:
   - cheval
   - grimoire
   - lion
+  - Épée longue  
 personnages:
   - moi:
     - santé: 8
@@ -13,4 +14,4 @@ personnages:
   - serpent:
     - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
