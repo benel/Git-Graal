@@ -1,9 +1,10 @@
 lieu: route
 inventaire:
+  - cheval
   - grimoire
 personnages:
   - moi:
-    - santé: 9
+    - santé: 10
   - chevalier_noir:
     - santé: 15
   - lion:
