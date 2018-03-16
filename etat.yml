@@ -1,22 +1,12 @@
-<<<<<<< HEAD
-lieu: montagne
+lieu: pont de l'épée
 inventaire:
   - cheval
   - grimoire
   - lion
-personnages:
-  - moi:
-    - santé: 7
-=======
-lieu: fontaine
-inventaire:
-  - cheval
-  - grimoire
   - épée longue
 personnages:
   - moi:
-    - santé: 1
->>>>>>> master
+    - santé: 7
   - chevalier_noir:
     - santé: 0
   - lion:
