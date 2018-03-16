@@ -1,0 +1,16 @@
+lieu: pont de l'épée
+inventaire:
+  - cheval
+  - grimoire
+  - grall
+personnages:
+  - moi:
+    - santé: 10
+  - chevalier_noir:
+    - santé: 15
+  - lion:
+    - santé: 10
+  - serpent:
+    - santé: 25
+  - géant:
+    - santé: 25
