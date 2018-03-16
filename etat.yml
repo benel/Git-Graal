@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lieu: montagne
 inventaire:
   - cheval
@@ -6,8 +7,18 @@ inventaire:
 personnages:
   - moi:
     - santé: 7
+=======
+lieu: fontaine
+inventaire:
+  - cheval
+  - grimoire
+  - épée longue
+personnages:
+  - moi:
+    - santé: 1
+>>>>>>> master
   - chevalier_noir:
-    - santé: 15
+    - santé: 0
   - lion:
     - santé: 11
   - serpent:
