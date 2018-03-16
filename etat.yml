@@ -5,9 +5,9 @@ inventaire:
   - grall
 personnages:
   - moi:
-    - santé: 10
+    - santé: 7
   - chevalier_noir:
-    - santé: 15
+    - santé: 9
   - lion:
     - santé: 10
   - serpent:
