@@ -1,6 +1,7 @@
-lieu: table-ronde
+lieu: route
 inventaire:
   - cheval
+  - grimoire
 personnages:
   - moi:
     - santé: 10
@@ -12,3 +13,4 @@ personnages:
     - santé: 20
   - géant:
     - santé: 25
+    
