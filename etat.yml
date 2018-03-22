@@ -1,6 +1,7 @@
-lieu: table-ronde
+lieu: point-levis
 inventaire:
   - cheval
+  - grimoire
 personnages:
   - moi:
     - santé: 10
