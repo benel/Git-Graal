@@ -1,12 +1,13 @@
-lieu: montagne
+lieu: pont de l'épée
 inventaire:
   - cheval
   - lion
+  - épée longue
 personnages:
   - moi:
     - santé: 7
   - chevalier_noir:
-    - santé: 15
+    - santé: 9
   - lion:
     - santé: 11
   - serpent:
