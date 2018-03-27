@@ -3,7 +3,7 @@ inventaire:
   - grimoire
 personnages:
   - moi:
-    - santé: 6
+    - santé: 4
   - chevalier_noir:
     - santé: 9
   - lion:
