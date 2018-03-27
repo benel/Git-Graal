@@ -1,9 +1,9 @@
-lieu: table-ronde
+lieu: route
 inventaire:
-  - cheval
+  - grimoire
 personnages:
   - moi:
-    - santé: 10
+    - santé: 9
   - chevalier_noir:
     - santé: 15
   - lion:
