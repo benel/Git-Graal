@@ -4,9 +4,9 @@ Aurélien Bénel, 2018
 
 ## Prologue
 
-Jeune damoiselle, jeune damoiseau, si vous lisez ce texte c'est que vous avez été jugé•e digne par le Roi Arthur de devenir chevalier de la Table Ronde.
+Jeune damoiselle, jeune damoiseau, si vous lisez ce texte c'est que vous avez été jugé digne par le Roi Arthur de devenir chevalier de la Table Ronde.
 
-Une fois adoubé•e, vous devez chercher, autour de la Table Ronde, une chaise restée libre et **graver votre nom** (`Sign in`).
+Une fois adoubé, vous devez chercher, autour de la Table Ronde, une chaise restée libre et **graver votre nom** (`Sign in`).
 
 Le parchemin que vous avez entre les mains est de la main d'Arthur. Pour laisser toutes leurs chances à vos frères et sœurs d'armes, vous devrez en **faire une copie** (`Fork`) avant de rendre l'original.
 
@@ -229,7 +229,7 @@ Il est temps que vous preniez note de ce qui vous est arrivé.
 Le Graal, personne ne l'a jamais vu, ni ne sait ce que c'est : une coupe, une fiole de sang, des rouleaux de parchemin, un antique chaudron celte ?
 Qui le sait, si ce n'est vous.
 
-![Le Graal tel que vous l'avez vu]()
+![Le Graal tel que vous l'avez vu](graal.jpg)
 
 - Dessinez ce que vous avez vu.
 - Numérisez-le et déposez le fichier dans ce dossier.
