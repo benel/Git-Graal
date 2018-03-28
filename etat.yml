@@ -1,8 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 69dd33bd32158e5e693335313e434802c2ce128a
+>>>>>>> 5cb7eee1bd68722cf63a8657c40e125fd8887cc6
 lieu: pont-levis
 inventaire:
   - cheval
   - grimoire
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5cb7eee1bd68722cf63a8657c40e125fd8887cc6
 =======
 lieu: montagne
 inventaire:
@@ -10,14 +20,19 @@ inventaire:
   - grimoire
   - lion
 >>>>>>> new_branch
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 69dd33bd32158e5e693335313e434802c2ce128a
+>>>>>>> 5cb7eee1bd68722cf63a8657c40e125fd8887cc6
 personnages:
   - moi:
-    - santé: 7
+    - santé: 10
   - chevalier_noir:
     - santé: 15
   - lion:
-    - santé: 11
+    - santé: 20
   - serpent:
-    - santé: 0
+    - santé: 20
   - géant:
-    - santé: 0
+    - santé: 25
