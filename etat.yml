@@ -1,33 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 lieu: pont-levis
 inventaire:
   - cheval
   - grimoire
-=======
-lieu: montagne
-inventaire:
-  - cheval
-  - grimoire
-  - lion
->>>>>>> new_branch
 personnages:
   - moi:
-    - santé: 7
-=======
-lieu: fontaine
-inventaire:
-  - grimoire
-  - l'épée longue
-personnages:
-  - moi:
-    - santé: 0
->>>>>>> fb242287dea9704ac2fd13f2fc7bc75f28a05788
+    - santé: 10
   - chevalier_noir:
-    - santé: 0
+    - santé: 15
   - lion:
-    - santé: 11
+    - santé: 20
   - serpent:
-    - santé: 0
+    - santé: 20
   - géant:
-    - santé: 0
+    - santé: 25
