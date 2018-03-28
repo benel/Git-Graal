@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 lieu: pont-levis
 inventaire:
   - cheval
@@ -13,8 +14,17 @@ inventaire:
 personnages:
   - moi:
     - santé: 7
+=======
+lieu: fontaine
+inventaire:
+  - grimoire
+  - l'épée longue
+personnages:
+  - moi:
+    - santé: 0
+>>>>>>> fb242287dea9704ac2fd13f2fc7bc75f28a05788
   - chevalier_noir:
-    - santé: 15
+    - santé: 0
   - lion:
     - santé: 11
   - serpent:
