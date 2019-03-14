@@ -1,12 +1,12 @@
-lieu: fontaine
+lieu: auberge
 inventaire:
   - grimoire
   - épée longue
 personnages:
   - moi:
-    - santé: 0
+    - santé: 1
   - chevalier_noir:
-    - santé: 0
+    - santé: 1
   - lion:
     - santé: 20
   - serpent:
