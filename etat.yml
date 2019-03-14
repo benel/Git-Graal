@@ -1,12 +1,11 @@
-lieu: pont-levis
+lieu: route
 inventaire:
-  - cheval
   - grimoire
 personnages:
   - moi:
     - santé: 10
   - chevalier_noir:
-    - santé: 15
+    - santé: 14
   - lion:
     - santé: 20
   - serpent:
