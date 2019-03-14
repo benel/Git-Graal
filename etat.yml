@@ -1,7 +1,8 @@
-lieu: auberge
+lieu: pont de l'épée
 inventaire:
   - grimoire
   - épée longue
+  - lion
 personnages:
   - moi:
     - santé: 15
@@ -12,6 +13,6 @@ personnages:
   - serpent:
     - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
   - cheval:
     - santé: 50
