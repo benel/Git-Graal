@@ -1,12 +1,12 @@
-lieu: montagne
+lieu: fontaine
 inventaire:
   - grimoire
-  - lion
+  - épée longue
 personnages:
   - moi:
-    - santé: 7
+    - santé: 0
   - chevalier_noir:
-    - santé: 14
+    - santé: 0
   - lion:
     - santé: 11
   - serpent:
