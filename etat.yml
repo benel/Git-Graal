@@ -1,16 +1,17 @@
 Adversaires: patate
 Equipment: Un épluche à patate
 Témoignage: "Oh mon dieu c'était une sacré patate"
-lieu: montagne
+lieu: pont de l'épée
 inventaire:
   - cheval
   - lion
+  - épée longue
   - grimoire  
 personnages:
   - moi:
     - santé: 7
   - chevalier_noir:
-    - santé: 15
+    - santé: 0
   - lion:
     - santé: 11
   - serpent:
