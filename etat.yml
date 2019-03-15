@@ -1,15 +1,16 @@
 Adversaires: patate
 Equipment: Un épluche à patate
 Témoignage: "Oh mon dieu c'était une sacré patate"
-lieu: pont-levis
+lieu: fontaine
 inventaire:
   - cheval
+  - épée longue
   - grimoire  
 personnages:
   - moi:
-    - santé: 10
+    - santé: 1
   - chevalier_noir:
-    - santé: 15
+    - santé: 0
   - lion:
     - santé: 20
   - serpent:
