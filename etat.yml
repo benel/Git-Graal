@@ -1,6 +1,7 @@
-lieu: table-ronde
+lieu: pont-levi
 inventaire:
   - cheval
+  - grimoire
 personnages:
   - moi:
     - santé: 10
