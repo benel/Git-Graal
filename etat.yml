@@ -1,5 +1,6 @@
-lieu: montagne
+lieu: pont de l'épée
 inventaire:
+  - épée longue
   - cheval
   - grimoire
   - lion
@@ -7,7 +8,7 @@ personnages:
   - moi:
     - santé: 7
   - chevalier_noir:
-    - santé: 15
+    - santé: 0
   - lion:
     - santé: 11
   - serpent:
