@@ -1,6 +1,6 @@
 # LÀ GÎT LE GRAAL
 # L'introduction à GIT dont vous êtes le héros
-Aurélien Bénel, 2018
+Aurélien Bénel, 2018 (révision en 2020)
 
 ## Prologue
 
@@ -19,34 +19,7 @@ Avant de partir à l'aventure, vous harnachez votre cheval et **rassemblez votre
 
 Vous enfourchez votre fier destrier, sortez des écuries au pas, traversez ce que l'on appelle "la basse cour"... À l'instant où vous vous apprêtez à franchir le pont-levis, un vieillard, vêtu d'un long manteau blanc et appuyé sur un bâton noueux, vous tend un bout d'étoffe sur lequel est inscrit :
 
-> ### Formules druidiques pour voyager dans le temps
->     git clone
->    *Que l'histoire soit mienne !*
->
->     git commit -a
->    *Que la postérité n'en oublie pas une miette !*
->
->     git commit --amend
->    *Que le passé juste enfui soit comme l'argile encore fraiche !*
->
->     git reset HEAD --hard
->    *Que le soleil remonte sa course et que tout ce qui fut fait soit défait !*
->
->     git reset HEAD~3 --soft
->    *Les mêmes faits, un autre récit !*
->
->     git checkout -b fisher_king HEAD~1
->    *Qu'un nouveau choix ouvre un nouvel univers !*
->
->     git merge master
->    *Parallèles furent les univers, réunis ils seront !*
->
->     git add
->     git commit
->    *Que la postérité retienne ces hauts faits !*
->
->     git push
->    *Oïez, oïez mes exploits !*
+![Formules druidiques pour voyager dans le temps](./formules.png)
 
 Votre regard, plein d'étonnement, quitte le bout d'étoffe pour chercher les yeux du vieillard. Mais celui-ci a disparu.
 
