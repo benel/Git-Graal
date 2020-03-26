@@ -3,7 +3,7 @@ inventaire:
   - cheval
   - grimoire
   - épée longue
-  -lion
+  - lion
 personnages:
   - moi:
     - santé: 7
