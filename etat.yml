@@ -1,15 +1,26 @@
+<<<<<<< HEAD
 lieu: fontaine
+=======
+lieu: montagne
+>>>>>>> fisher_king
 inventaire:
   - grimoire
+<<<<<<< HEAD
   - épée longue
 personnages:
   - moi:
     - santé: 1
+=======
+  - lion
+personnages:
+  - moi:
+    - santé: 7
+>>>>>>> fisher_king
   - chevalier_noir:
     - santé: 0
   - lion:
-    - santé: 20
+    - santé: 11
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
