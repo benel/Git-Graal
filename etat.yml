@@ -1,14 +1,17 @@
-lieu: table-ronde
+lieu: pont de l'épée
 inventaire:
   - cheval
+  - grimoire
+  - épée longue
+  - lion
 personnages:
   - moi:
-    - santé: 10
+    - santé: 7
   - chevalier_noir:
-    - santé: 15
+    - santé: 0
   - lion:
-    - santé: 20
+    - santé: 11
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
