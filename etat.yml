@@ -1,16 +1,16 @@
-lieu: montagne
+lieu: montagne2
 inventaire:
   - cheval
   - grimoire
   - lion
 personnages:
   - moi:
-    - santé: 10
+    - santé: 9
   - chevalier_noir:
     - santé: 15
   - lion:
-    - santé: 12
+    - santé: 11
   - serpent:
     - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
