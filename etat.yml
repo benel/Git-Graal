@@ -1,14 +1,15 @@
 lieu: route
 inventaire:
   - grimoire
+  - lion
 personnages:
   - moi:
-    - santé: 9
+    - santé: 7 
   - chevalier_noir:
     - santé: 15
   - lion:
-    - santé: 20
+    - santé: 12
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
