@@ -209,7 +209,7 @@ Il est temps que vous preniez note de ce qui vous est arrivé.
 Le Graal, personne ne l'a jamais vu, ni ne sait ce que c'est : une coupe, une fiole de sang, des rouleaux de parchemin, un antique chaudron celte ?
 Qui le sait, si ce n'est vous.
 
-![Le Graal tel que vous l'avez vu](./fig/graal.jpg)
+![Le Graal tel que vous l'avez vu](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiokIi77LfoAhUU3IUKHa6ICwAQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.fotosearch.fr%2FCSP395%2Fk15559508%2F&psig=AOvVaw0w6tl5MqrCo_TQGefYVVSZ&ust=1585301968316243)
 
 - Dessinez ce que vous avez vu.
 - Numérisez-le et déposez le fichier dans ce dossier.
