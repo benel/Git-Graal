@@ -8,7 +8,7 @@ Jeune damoiselle, jeune damoiseau, si vous lisez ce texte c'est que vous avez é
 
 Une fois adoubé•e, vous devez chercher, autour de la Table Ronde, une chaise restée libre et **graver votre nom** (`Sign in`).
 
-Le parchemin que vous avez entre les mains est de la main d'Arthur. Pour laisser toutes leurs chances à vos frères et sœurs d'armes, vous devrez en **faire une copie** (`Fork`) avant de rendre l'original. [🧙🏼‍♀️Besoin d'aide ?](./fig/fork.mp4?raw)
+Le parchemin que vous avez entre les mains est de la main d'Arthur. Pour laisser toutes leurs chances à vos frères et sœurs d'armes, vous devrez en **faire une copie** (`Fork`) avant de rendre l'original. [🧙🏼‍♀️Besoin d'aide ?](./fig/fork.mp4?raw=true)
 
 Avant de partir à l'aventure, vous harnachez votre cheval et **rassemblez votre équipement** :
 
@@ -25,11 +25,11 @@ Votre regard, plein d'étonnement, quitte le bout d'étoffe pour chercher les ye
 
 Il est temps de prendre des notes de ce qui s'est passé :
 
-1. Faites vous une copie locale. [🧙🏼‍♀️](./fig/clone.mp4?raw)
+1. Faites vous une copie locale. [🧙🏼‍♀️](./fig/clone.mp4?raw=true)
 2. Éditez le fichier `etat.yml` avec Atom:
   - changez le lieu en `pont-levis`,
-  - ajoutez `grimoire` à votre inventaire. [🧙🏼‍♀️](./fig/grimoire.mp4?raw)
-3. Faites en une nouvelle entrée dans votre journal. [🧙🏼‍♀️](./fig/commit.mp4?raw)
+  - ajoutez `grimoire` à votre inventaire. [🧙🏼‍♀️](./fig/grimoire.mp4?raw=true)
+3. Faites en une nouvelle entrée dans votre journal. [🧙🏼‍♀️](./fig/commit.mp4?raw=true)
 
 Non, sérieusement ?!?
 Vous croyez qu'on parlera encore de vous dans 15 siècles si vous vous y prenez comme ça ?
@@ -40,7 +40,7 @@ Amendez l'entrée de votre journal de manière à ce que le message :
 
 - commence par un préfixe correspondant au bénéfice de votre exploit (`ADVERSAIRE:`, `ÉQUIPEMENT:`, `TÉMOIGNAGE:`, etc.),
 - soit correct grammaticalement,
-- soit aussi explicite que possible (tout en restant court). [🧙🏼‍♀️](./fig/amend.mp4?raw)
+- soit aussi explicite que possible (tout en restant court). [🧙🏼‍♀️](./fig/amend.mp4?raw=true)
 
 C'est quand même mieux !
 Là vous pouvez commencer à être fier de vos exploits.
@@ -58,14 +58,14 @@ Modifiez le document `etat.yml` (mais sans mettre à jour votre journal):
 
 - changez le lieu en `route`,
 - supprimez `cheval` de votre inventaire,
-- retranchez un point à votre `santé`. [🧙🏼‍♀️](./fig/honte.mp4?raw)
+- retranchez un point à votre `santé`. [🧙🏼‍♀️](./fig/honte.mp4?raw=true)
 
 ![Vaincu par le chevalier noir](https://upload.wikimedia.org/wikipedia/commons/4/48/Michelant-ed-Meraugis-p231-Vienna-fol035r-b.png)
 
 Vous continuez en boitant sur la route... en maudissant le chevalier noir et vous-même. Si seulement, vous ne vous étiez pas endormi !
 À vrai dire, peut-être qu'il y a une formule pour que tout ceci ne soit jamais arrivé...
 
-Allez-y, n'ayez pas peur... Qu'est-ce qui peut bien arriver de mal en réécrivant le passé ? [🧙🏼‍♀️](./fig/reset-hard.mp4?raw)
+Allez-y, n'ayez pas peur... Qu'est-ce qui peut bien arriver de mal en réécrivant le passé ? [🧙🏼‍♀️](./fig/reset-hard.mp4?raw=true)
 
 Et voilà ! À nouveau, vous trottez fièrement sur les routes de Bretagne.
 La route se sépare en deux :
@@ -94,12 +94,12 @@ Prenez note de cette première attaque :
 - indiquez `fontaine` comme lieu,
 - retranchez 6 points de santé au chevalier noir,
 - 3 à vous-même,
-- ajoutez une entrée à votre journal. [🧙🏼‍♀️](./fig/chevalier1.mp4?raw)
+- ajoutez une entrée à votre journal. [🧙🏼‍♀️](./fig/chevalier1.mp4?raw=true)
 
 Faisant de grands moulinets avec son épée, démesurément longue, il parvient à vous faire une grande estafilade au visage :
 
 - retranchez 2 points à votre santé,
-- ajoutez une entrée à votre journal. [🧙🏼‍♀️](./fig/chevalier2.mp4?raw)
+- ajoutez une entrée à votre journal. [🧙🏼‍♀️](./fig/chevalier2.mp4?raw=true)
 
 Avec le courage du désespoir vous bondissez vers lui et profitant de la lourdeur de son épée, vous tournez autour de lui, enfoncez votre épée entre deux plaques de son armure, d'un côté puis de l'autre. Il tombe à terre. Alors que vous ramassez sa très longue épée, dans un dernier sursaut, il vous étrangle de ses mains.
 Prenez note de cette dernière attaque :
@@ -107,19 +107,19 @@ Prenez note de cette dernière attaque :
 - retranchez tous les points de santé du chevalier noir,
 - retranchez en 4 à vous-même,
 - ajoutez l'`épée longue` à votre inventaire,
-- ajoutez une entrée à votre journal. [🧙🏼‍♀️](./fig/chevalier3.mp4?raw)
+- ajoutez une entrée à votre journal. [🧙🏼‍♀️](./fig/chevalier3.mp4?raw=true)
 
 Vous avez gagné mais à quel prix !
 Toujours soucieux de l'image que l'on aura de vous dans quinze siècles, vous décidez de résumer un peu :
 
 - dans votre journal, effacez les trois dernières entrées (sans rien changer à ce qui s'est passé),
-- créez une nouvelle entrée pour l'ensemble du combat. [🧙🏼‍♀️](./fig/reset-soft.mp4?raw)
+- créez une nouvelle entrée pour l'ensemble du combat. [🧙🏼‍♀️](./fig/reset-soft.mp4?raw=true)
 
 Avec votre nouvelle épée à la main, vous êtes fier comme Artaban. Tout irait pour le mieux, si vous ne gisiez pas dans votre sang. Et d'ailleurs, aviez-vous réellement besoin de cette épée ?
 
 Vous décidez d'explorer une autre réalité dans laquelle vous auriez choisi de suivre la route du Roi Pêcheur, où vous n'auriez pas votre épée et ne seriez pas en train d'agoniser...
 
-Allez-y ! [🧙🏼‍♀️](./fig/checkout.mp4?raw)
+Allez-y ! [🧙🏼‍♀️](./fig/checkout.mp4?raw=true)
 
 Ouvrez le document `etat.yml` et vérifiez que tout est redevenu comme avant.
 
@@ -142,7 +142,7 @@ Prenez note de ce qui vous arrive :
 - 8 au lion,
 - 2 à vous,
 - ajoutez `lion` à votre inventaire,
-- ajoutez une nouvelle entrée à votre journal. [🧙🏼‍♀️](./fig/lion.mp4?raw)
+- ajoutez une nouvelle entrée à votre journal. [🧙🏼‍♀️](./fig/lion.mp4?raw=true)
 
 ## Harpin de la montagne
 
@@ -163,7 +163,7 @@ Prenez note de ce qui vous arrive :
 - indiquez que vous êtes sur la `montagne`,
 - retranchez 25 points de santé au géant,
 - 1 à votre lion,
-- 1 à vous-même. [🧙🏼‍♀️](./fig/montagne.mp4?raw)
+- 1 à vous-même. [🧙🏼‍♀️](./fig/montagne.mp4?raw=true)
 
 ## Le pont de l'épée
 
@@ -182,7 +182,7 @@ Un halo rouge vous alerte sur le paradoxe temporel qui est en cours :
 - vous ne pouvez pas être à la fois ici et là-bas.
 
 Entre les deux états de santé, choisissez le meilleur (vous n'avez pas vraiment envie, jusqu'à la fin de l'histoire, de ramper en vous vidant de votre sang) et dites que vous êtes sur le `pont de l'épée`.
-Faites de cette fusion de deux univers, une nouvelle entrée à votre journal. [🧙🏼‍♀️](./fig/merge.mp4?raw)
+Faites de cette fusion de deux univers, une nouvelle entrée à votre journal. [🧙🏼‍♀️](./fig/merge.mp4?raw=true)
 
 ![Le pont de l'épée](https://img.over-blog-kiwi.com/0/55/18/81/20161112/ob_610402_lancelot-pont-epee-detail.jpg)
 
@@ -215,8 +215,8 @@ Qui le sait, si ce n'est vous.
 - Numérisez-le et déposez le fichier dans ce dossier.
 - Mettez le nom de votre image dans la référence ci-dessus de sorte qu'elle s'affiche.
 - Ajoutez les deux fichiers (celui qui a été modifié et celui qui est nouveau) à une nouvelle entrée de votre journal.
-- Quand vous êtes satisfait de la légende qui raconte vos hauts faits, publiez la. [🧙🏼‍♀️](./fig/push.mp4?raw)
-- Demandez leur avis à vos frères et sœurs d'arme (`pull request`) [🧙🏼‍♀️](./fig/pull-request.mp4?raw) et en retour donnez votre avis sur leur propre légende.
+- Quand vous êtes satisfait de la légende qui raconte vos hauts faits, publiez la. [🧙🏼‍♀️](./fig/push.mp4?raw=true)
+- Demandez leur avis à vos frères et sœurs d'arme (`pull request`) [🧙🏼‍♀️](./fig/pull-request.mp4?raw=true) et en retour donnez votre avis sur leur propre légende.
 
 ---
 
