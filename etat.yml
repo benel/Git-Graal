@@ -1,10 +1,10 @@
-lieu: montagne
+lieu: pont de l'épée
 inventaire:
   - cheval
   - grimmoire
   - lion
   - épée longue
-  
+
 personnages:
   - moi:
     - santé: 99997
