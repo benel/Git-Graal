@@ -2,16 +2,17 @@ lieu: route
 inventaire:
   - cheval
   - grimmoire
+  - lion
 
 personnages:
   - moi:
-    - santé: 100000
+    - santé: 99998
     - points de magie: 35
   - chevalier_noir:
     - santé: 15
   - lion:
-    - santé: 20
+    - santé: 12
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
