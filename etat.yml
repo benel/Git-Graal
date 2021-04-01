@@ -1,11 +1,12 @@
-lieu: table-ronde
+lieu: fontaine
 inventaire:
   - cheval
+  - grimoire
 personnages:
   - moi:
-    - santé: 10
+    - santé: 5
   - chevalier_noir:
-    - santé: 15
+    - santé: 9
   - lion:
     - santé: 20
   - serpent:
