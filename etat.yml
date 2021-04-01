@@ -5,7 +5,7 @@ inventaire:
 
 personnages:
   - moi:
-    - santé: 99997
+    - santé: 99995
     - points de magie: 35
   - chevalier_noir:
     - santé: 9
