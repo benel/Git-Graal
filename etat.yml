@@ -1,9 +1,9 @@
-lieu: table-ronde
+lieu: pont-levis
 inventaire:
   - cheval
 personnages:
   - moi:
-    - santé: 10
+    - santé: 100000
   - chevalier_noir:
     - santé: 15
   - lion:
