@@ -2,11 +2,13 @@ lieu: montagne
 inventaire:
   - cheval
   - lion
+  - grimoire
+  - épée longue
 personnages:
   - moi:
     - santé: 9
   - chevalier_noir:
-    - santé: 15
+    - santé: 0
   - lion:
     - santé: 11
   - serpent:
