@@ -1,18 +1,19 @@
-lieu: fontaine
+lieu: montagne
 inventaire:
   - cheval
   - grimmoire
+  - lion
   - épée longue
-
+  
 personnages:
   - moi:
-    - santé: 99991
+    - santé: 99997
     - points de magie: 35
   - chevalier_noir:
     - santé: 0
   - lion:
-    - santé: 20
+    - santé: 11
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
