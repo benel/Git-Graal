@@ -1,14 +1,14 @@
-lieu: route
+lieu: fontaine
 inventaire:
   - cheval
   - grimmoire
 
 personnages:
   - moi:
-    - santé: 100000
+    - santé: 99997
     - points de magie: 35
   - chevalier_noir:
-    - santé: 15
+    - santé: 9
   - lion:
     - santé: 20
   - serpent:
