@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lieu: fontaine
 inventaire:
   - grimoire
@@ -5,11 +6,20 @@ inventaire:
 personnages:
   - moi:
     - santé: 0
+=======
+lieu: montagne
+inventaire:
+  - grimoire
+  - lion
+personnages:
+  - moi:
+    - santé: 6
+>>>>>>> fisher_king
   - chevalier_noir:
     - santé: 
   - lion:
-    - santé: 20
+    - santé: 11
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
