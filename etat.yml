@@ -1,11 +1,12 @@
-lieu: fontaine
+lieu: pont-levis
 inventaire:
+  - cheval
   - grimoire
 personnages:
   - moi:
-    - santé: 0
+    - santé: 10
   - chevalier_noir:
-    - santé: 0
+    - santé: 15
   - lion:
     - santé: 20
   - serpent:
