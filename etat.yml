@@ -11,6 +11,6 @@ personnages:
   - lion:
     - santé: 12
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
