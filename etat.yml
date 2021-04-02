@@ -2,11 +2,12 @@ lieu: fontaine
 inventaire:
   - cheval
   - grimoire
+  - epee_longue
 personnages:
   - moi:
-    - santé: 7
+    - santé: 3
   - chevalier_noir:
-          - santé: 7
+    - santé: 0
   - lion:
     - santé: 20
   - serpent:
