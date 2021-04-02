@@ -1,20 +1,10 @@
-<<<<<<< HEAD
-lieu: fontaine
-inventaire:
-  - grimoire
-  - épée longue
-personnages:
-  - moi:
-    - santé: 0
-=======
-lieu: montagne
+lieu: pont de l'épée
 inventaire:
   - grimoire
   - lion
 personnages:
   - moi:
     - santé: 6
->>>>>>> fisher_king
   - chevalier_noir:
     - santé: 
   - lion:
