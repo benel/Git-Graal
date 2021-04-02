@@ -1,6 +1,7 @@
-lieu: 
+lieu: pont-levis 
 inventaire:
   - cheval
+  - grimoire
 personnages:
   - moi:
     - santé: 10
