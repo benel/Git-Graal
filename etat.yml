@@ -6,7 +6,7 @@ personnages:
   - moi:
     - santé: 7
   - chevalier_noir:
-    - santé: 9
+          - santé: 7
   - lion:
     - santé: 20
   - serpent:
