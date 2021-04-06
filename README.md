@@ -1,5 +1,7 @@
 # LÀ GÎT LE GRAAL
+
 # L'introduction à GIT dont vous êtes le héros
+
 Aurélien Bénel, 2018 (révision en 2020)
 
 ## Prologue
@@ -27,8 +29,10 @@ Il est temps de prendre des notes de ce qui s'est passé :
 
 1. Faites vous une copie locale. [🧙🏼‍♀️](./fig/clone.mp4?raw=true)
 2. Éditez le fichier `etat.yml` avec Atom:
-  - changez le lieu en `pont-levis`,
-  - ajoutez `grimoire` à votre inventaire. [🧙🏼‍♀️](./fig/grimoire.mp4?raw=true)
+
+- changez le lieu en `pont-levis`,
+- ajoutez `grimoire` à votre inventaire. [🧙🏼‍♀️](./fig/grimoire.mp4?raw=true)
+
 3. Faites en une nouvelle entrée dans votre journal. [🧙🏼‍♀️](./fig/commit.mp4?raw=true)
 
 Non, sérieusement ?!?
@@ -209,7 +213,7 @@ Il est temps que vous preniez note de ce qui vous est arrivé.
 Le Graal, personne ne l'a jamais vu, ni ne sait ce que c'est : une coupe, une fiole de sang, des rouleaux de parchemin, un antique chaudron celte ?
 Qui le sait, si ce n'est vous.
 
-![Le Graal tel que vous l'avez vu]()
+![Le Graal tel que vous l'avez vu](./graal-td.png)
 
 - Dessinez ce que vous avez vu.
 - Numérisez-le et déposez le fichier dans ce dossier.
@@ -226,7 +230,7 @@ L'analogie entre Git et un jeu vidéo est reprise de l'incontournable [Git Magic
 
 Les scènes de ce tutoriel sont librement inspirées des romans arthuriens de
 Chrétien de Troyes (XIIe s.) :
-[*Yvain ou le chevalier au lion*](https://fr.wikipedia.org/wiki/Yvain_ou_le_Chevalier_au_lion),
-[*Lancelot ou le chevalier de la charrette*](https://fr.wikipedia.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette), [*Perceval ou le conte du Graal*](https://fr.wikipedia.org/wiki/Perceval_ou_le_Conte_du_Graal).
+[_Yvain ou le chevalier au lion_](https://fr.wikipedia.org/wiki/Yvain_ou_le_Chevalier_au_lion),
+[_Lancelot ou le chevalier de la charrette_](https://fr.wikipedia.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette), [_Perceval ou le conte du Graal_](https://fr.wikipedia.org/wiki/Perceval_ou_le_Conte_du_Graal).
 
 Certaines images référencées peuvent être protégées par le droit d'auteur.
