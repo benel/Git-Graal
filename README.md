@@ -182,7 +182,7 @@ Un halo rouge vous alerte sur le paradoxe temporel qui est en cours :
 - vous ne pouvez pas être à la fois ici et là-bas.
 
 Entre les deux états de santé, choisissez le meilleur (vous n'avez pas vraiment envie, jusqu'à la fin de l'histoire, de ramper en vous vidant de votre sang) et dites que vous êtes sur le `pont de l'épée`.
-Faites de cette fusion de deux univers, une nouvelle entrée à votre journal. [🧙🏼‍♀️](./fig/merge.mp4?raw=true)
+Faites de cette fusion de deux univers, une nouvelle entrée à votre journal. [🧙🏼‍♀️](./graal.jpg)
 
 ![Le pont de l'épée](https://img.over-blog-kiwi.com/0/55/18/81/20161112/ob_610402_lancelot-pont-epee-detail.jpg)
 
