@@ -182,7 +182,7 @@ Un halo rouge vous alerte sur le paradoxe temporel qui est en cours :
 - vous ne pouvez pas être à la fois ici et là-bas.
 
 Entre les deux états de santé, choisissez le meilleur (vous n'avez pas vraiment envie, jusqu'à la fin de l'histoire, de ramper en vous vidant de votre sang) et dites que vous êtes sur le `pont de l'épée`.
-Faites de cette fusion de deux univers, une nouvelle entrée à votre journal. [🧙🏼‍♀️](./graal.jpg)
+Faites de cette fusion de deux univers, une nouvelle entrée à votre journal. [🧙🏼‍♀️](./fig/merge.mp4?raw=true)
 
 ![Le pont de l'épée](https://img.over-blog-kiwi.com/0/55/18/81/20161112/ob_610402_lancelot-pont-epee-detail.jpg)
 
@@ -209,7 +209,7 @@ Il est temps que vous preniez note de ce qui vous est arrivé.
 Le Graal, personne ne l'a jamais vu, ni ne sait ce que c'est : une coupe, une fiole de sang, des rouleaux de parchemin, un antique chaudron celte ?
 Qui le sait, si ce n'est vous.
 
-![Le Graal tel que vous l'avez vu]()
+![Le Graal tel que vous l'avez vu](./graal.jpg)
 
 - Dessinez ce que vous avez vu.
 - Numérisez-le et déposez le fichier dans ce dossier.
