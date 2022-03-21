@@ -1,16 +1,16 @@
-lieu: pont-levis
+lieu: montagne
 inventaire:
   - cheval
   - baguette
   - lion
 personnages:
   - moi:
-    - santé: 10
+    - santé: 9
   - chevalier_noir:
     - santé: 15
   - lion:
-    - santé: 20
+    - santé: 19
   - serpent:
     - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
