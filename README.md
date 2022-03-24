@@ -296,4 +296,6 @@ Chrétien de Troyes (XIIe s.) :
 [*Yvain ou le chevalier au lion*](https://fr.wikipedia.org/wiki/Yvain_ou_le_Chevalier_au_lion),
 [*Lancelot ou le chevalier de la charrette*](https://fr.wikipedia.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette), [*Perceval ou le conte du Graal*](https://fr.wikipedia.org/wiki/Perceval_ou_le_Conte_du_Graal).
 
+Source Image du Graal : ![Graal_apercu](./Graal_aperçu.png)
+
 Certaines images référencées peuvent être protégées par le droit d'auteur.
