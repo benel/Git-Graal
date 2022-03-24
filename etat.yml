@@ -1,5 +1,6 @@
-lieu: table-ronde
+lieu: pont-levis
 inventaire:
+  - baguette
   - cheval
 personnages:
   - moi:
