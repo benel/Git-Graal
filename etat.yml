@@ -1,11 +1,13 @@
-lieu: fontaine
+<<<<<<< HEAD
+lieu: pont de l'épée
 inventaire:
   - baguette
   - cheval
   - épée longue
+  - lion
 personnages:
   - moi:
-    - santé: 1
+    - santé: 7
   - chevalier_noir:
     - santé: 0
   - lion:
@@ -14,3 +16,20 @@ personnages:
     - santé: 20
   - géant:
     - santé: 25
+=======
+lieu: montagne
+inventaire:
+  - cheval
+  - lion
+personnages:
+  - moi:
+    - santé: 7
+  - chevalier_noir:
+    - santé: 15
+  - lion:
+    - santé: 11
+  - serpent:
+    - santé: 0
+  - géant:
+    - santé: 0
+>>>>>>> fisher-king
