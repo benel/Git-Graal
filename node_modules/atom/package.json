@@ -1,0 +1,34 @@
+{
+  "name": "atom",
+  "version": "1.4.1",
+  "description": "shared, synchronous, independent state for javascript apps",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard --verbose | standard-tap | faucet",
+    "test": "tape test/*.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staydecent/atom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/staydecent/atom/issues"
+  },
+  "homepage": "https://github.com/staydecent/atom#readme",
+  "keywords": [
+    "shared",
+    "synchronous",
+    "independent",
+    "state"
+  ],
+  "author": "Adrian Unger",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "es6-promise": "4.2.8",
+    "faucet": "0.0.1",
+    "standard": "14.3.1",
+    "standard-tap": "1.0.4",
+    "tape": "4.13.0"
+  }
+}
