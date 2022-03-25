@@ -267,7 +267,7 @@ Qui le sait, si ce n'est vous ?
 
 > - Dessinez ce que vous avez vu et prenez le dessin en photo.
 > - Déposez le fichier dans ce dossier.
-> - Éditez ce texte, et mettez le nom de votre image dans la référence ci-dessus de sorte qu'elle s'affiche avec le `Markdown preview` d'Atom.
+![Graal](./graal.png)
 > Dans l'historique, vérifiez que les deux fichiers sont pris en compte (celui qui a été modifié et celui qui est nouveau) et créez une nouvelle entrée.
 > 
 > En ligne de commande, vous auriez eu à utiliser `git add` pour prendre en compte le nouveau fichier, avant de lancer `git commit -a`.
