@@ -263,7 +263,7 @@ Il est temps que vous preniez note de ce qui vous est arrivé.
 Le Graal, personne ne l'a jamais vu, ni ne sait ce que c'est : une coupe, une fiole de sang, des rouleaux de parchemin, un antique chaudron celte...
 Qui le sait, si ce n'est vous ?
 
-![Le Saint Graal]()
+![Le Saint Graal](graal.png)
 
 > - Dessinez ce que vous avez vu et prenez le dessin en photo.
 > - Déposez le fichier dans ce dossier.
