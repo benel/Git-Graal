@@ -1,6 +1,7 @@
-lieu: table-ronde
+lieu: pont-levie
 inventaire:
   - cheval
+  - baguette
 personnages:
   - moi:
     - santé: 10
