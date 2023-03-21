@@ -1,6 +1,6 @@
 # LÀ GÎT LE GRAAL
 # L'introduction à GIT dont vous êtes le héros
-Aurélien Bénel, 2018 (révisions en 2020 et 2022)
+Aurélien Bénel, 2018 (révisions en 2020, 2022, 2023)
 
 ## Prologue
 
