@@ -1,6 +1,8 @@
 lieu: point-levis
 inventaire:
   - cheval
+  - baguette
+  - fromage
 personnages:
   - moi:
     - santé: 18
