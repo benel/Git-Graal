@@ -1,12 +1,12 @@
-lieu: pont-levis
+lieu: fontaine
 inventaire:
   - cheval
   - baguette
 personnages:
   - moi:
-    - santé: 10
+    - santé: 7
   - chevalier_noir:
-    - santé: 15
+    - santé: 9
   - lion:
     - santé: 20
   - serpent:
