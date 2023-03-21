@@ -1,14 +1,15 @@
-lieu: table-ronde
+lieu: pont-levis
 inventaire:
   - cheval
+  - baguette
 personnages:
   - moi:
-    - santé: 10
+      - santé: 10
   - chevalier_noir:
-    - santé: 15
+      - santé: 15
   - lion:
-    - santé: 20
+      - santé: 20
   - serpent:
-    - santé: 20
+      - santé: 20
   - géant:
-    - santé: 25
+      - santé: 25
