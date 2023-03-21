@@ -3,6 +3,7 @@ inventaire:
   - cheval
   - baguette
   - fromage
+  - lion
 personnages:
   - moi:
     - santé: 18
