@@ -1,9 +1,12 @@
-lieu: table-ronde
+lieu: point-levis
 inventaire:
   - cheval
+  - baguette
+  - fromage
+  - lion
 personnages:
   - moi:
-    - santé: 10
+    - santé: 18
   - chevalier_noir:
     - santé: 15
   - lion:
