@@ -1,6 +1,7 @@
 lieu: point-levis
 inventaire:
   - cheval
+  - lion
 personnages:
   - moi:
     - santé: 18
