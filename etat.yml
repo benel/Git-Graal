@@ -1,16 +1,16 @@
-lieu: chemin
+lieu: montagne
 inventaire:
   - cheval
   - baguette
   - lion
 personnages:
   - moi:
-    - santé: 5
+    - santé: 4
   - chevalier_noir:
     - santé: 9
   - lion:
-    - santé: 12
+    - santé: 11
   - serpent:
     - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
