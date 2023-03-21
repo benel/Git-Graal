@@ -1,16 +1,23 @@
-lieu: fontaine
+lieu: montagne
 inventaire:
   - cheval
   - baguette
+<<<<<<< HEAD
   - épée longue
 personnages:
   - moi:
     - santé: 1
+=======
+  - lion
+personnages:
+  - moi:
+    - santé: 4
+>>>>>>> fisher-king
   - chevalier_noir:
     - santé: 0
   - lion:
-    - santé: 20
+    - santé: 11
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
