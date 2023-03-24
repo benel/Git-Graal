@@ -1,5 +1,7 @@
 # LÀ GÎT LE GRAAL
+
 # L'introduction à GIT dont vous êtes le héros
+
 Aurélien Bénel, 2018 (révisions en 2020, 2022, 2023)
 
 ## Prologue
@@ -9,20 +11,20 @@ Jeune damoiselle, jeune damoiseau, si vous lisez ce texte c'est que vous avez é
 Une fois adoubé•e, vous devez chercher, autour de la Table Ronde, une chaise restée libre et graver votre nom.
 
 > Dans le terminal, indiquez votre nom complet et votre adresse électronique :
-> 
+>
 >     git config --global user.email "you@example.com"
 >     git config --global user.name "Your Name"
 
 À cette table, chacun•e peut prendre la parole mais dans le respect de celle des autres. Vous aurez votre propre version de la quête.
 
 > Dans GitHub :
-> 
+>
 > - faites vous une copie publique de l'entrepôt (`Fork`),
 > - copiez dans le presse-papier, l'URI de **votre** entrepôt (`code` > `clone`).
 
 Avant de partir à l'aventure, vous harnachez votre cheval et rassemblez votre équipement.
 
-> Doivent être installés sur votre ordinateur : *git*, une version récente de *Node* et un éditeur de texte avec prise en charge des formats YAML et Markdown.
+> Doivent être installés sur votre ordinateur : _git_, une version récente de _Node_ et un éditeur de texte avec prise en charge des formats YAML et Markdown.
 
 ## Aux portes de Camelot
 
@@ -30,7 +32,7 @@ Vous enfourchez votre fier destrier, sortez des écuries au pas et traversez ce 
 
 > 1. Dans votre terminal, lancez `npx ungit`.
 > 2. Dans l'interface qui apparaît, collez l'URI de tout à l'heure dans `clone from` et lancez la copie privée de l'entrepôt.
-> 
+>
 > L'équivalent en ligne de commande aurait été `git clone`.
 
 Votre regard se pose sur la baguette : elle est noueuse mais encore verte... Puis votre regard se lève, interrogatif, à la recherche des yeux du vieillard. Mais ce dernier a disparu.
@@ -39,13 +41,13 @@ Que de choses se sont passées !
 
 > Éditez le fichier `etat.yml` :
 >
->  - changez le lieu en `pont-levis`,
->  - ajoutez `baguette` à votre inventaire.
+> - changez le lieu en `pont-levis`,
+> - ajoutez `baguette` à votre inventaire.
 
 Pour garder le souvenir du déroulement de cette aventure, vous faites une marque sur la baguette avec la pointe de votre couteau.
 
 > Dans `ungit`, saisissez le titre de votre nouvelle entrée et validez sa création (`commit`).
-> 
+>
 > L'équivalent en ligne de commande aurait été `git commit -a`.
 
 Non, sérieusement ?!?
@@ -73,7 +75,7 @@ Au-dessus de vous un chevalier en armure noire, vous regarde en ricanant.
 Le chevalier attache la bride de votre cheval à sa selle et poursuit sa route, vous laissant, couvert de boue (et de honte), dans l'ornière.
 
 > Éditez le fichier `etat.yml` :
-> 
+>
 > - changez le lieu en `route`,
 > - supprimez `cheval` de votre inventaire,
 > - retranchez un point à votre `santé`.
@@ -85,10 +87,9 @@ Vous continuez en boitant sur la route... en maudissant le chevalier noir et vou
 
 Allez-y, n'ayez pas peur... Qu'est-ce qui pourrait bien arriver de mal en retournant dans le passé ?
 
-> Dans votre historique, annulez toutes les modifications du dossier depuis la dernière entrée de l'historique (`Discard all`). 
-> 
+> Dans votre historique, annulez toutes les modifications du dossier depuis la dernière entrée de l'historique (`Discard all`).
+>
 > L'équivalent en ligne de commande aurait été `git reset --hard`.
-
 
 Et voilà ! À nouveau, vous trottez fièrement sur les routes de Bretagne.
 La route se sépare en deux :
@@ -114,11 +115,11 @@ Vous dégainez votre arme et chargez votre ennemi avec un cri guerrier.
 Votre charge lui inflige une sérieuse blessure, mais il contre-attaque profitant de l'ouverture.
 
 > Prenez note de cette première attaque dans `etat.yml` :
-> 
+>
 > - indiquez `fontaine` comme lieu,
 > - retranchez 6 points de santé au chevalier noir,
 > - 3 à vous-même.
-> 
+>
 > Ajoutez une entrée à votre historique.
 
 Faisant de grands moulinets avec son épée, démesurément longue, il parvient à vous faire une grande estafilade au visage.
@@ -131,7 +132,7 @@ Faisant de grands moulinets avec son épée, démesurément longue, il parvient 
 Avec le courage du désespoir vous bondissez vers lui et profitant de la lourdeur de son épée, vous tournez autour de lui, enfoncez votre épée entre deux plaques de son armure, d'un côté puis de l'autre. Il tombe à terre. Alors que vous ramassez sa très longue épée, dans un dernier sursaut, il vous étrangle de ses mains.
 
 > Prenez note de cette dernière attaque :
-> 
+>
 > - retranchez tous les points de santé du chevalier noir,
 > - retranchez en 4 à vous-même,
 > - ajoutez l'`épée longue` à votre inventaire,
@@ -141,9 +142,9 @@ Vous avez gagné mais à quel prix !
 Toujours soucieux de l'image que l'on aura de vous dans quinze siècles, vous décidez de résumer un peu (sans rien changer à ce qui s'est passé).
 
 > Dans l'historique, sélectionnez la branche principale, puis `squash` en face de l'entrée du premier round du combat.
-> 
+>
 > L'équivalent en ligne de commande aurait été `git reset HEAD~2 --soft && git commit --amend`.
-> 
+>
 > Amendez l'entrée pour que son titre reflète l'ensemble du combat.
 
 Avec votre nouvelle épée à la main, vous êtes fier comme Artaban. Tout irait pour le mieux, si vous ne gisiez pas dans votre sang. Et d'ailleurs, aviez-vous réellement besoin de cette épée ?
@@ -151,14 +152,14 @@ Avec votre nouvelle épée à la main, vous êtes fier comme Artaban. Tout irait
 Vous décidez d'explorer une autre réalité dans laquelle vous auriez choisi de suivre la route du Roi Pêcheur, où vous n'auriez pas votre épée et ne seriez pas en train d'agoniser...
 
 > Dans l'historique :
-> 
+>
 > - à partir de l'avant dernière entrée, initiez une branche (nommée par exemple `fisher-king`),
 > - choisissez de vous placer dans cette nouvelle branche (`checkout`).
-> 
+>
 > L'équivalent en ligne de commande aurait été `git checkout -b fisher-king HEAD~1`.
 
-Tout est redevenu comme avant le combat. 
-Seule votre baguette magique garde la mémoire de ce qui s'est passé. 
+Tout est redevenu comme avant le combat.
+Seule votre baguette magique garde la mémoire de ce qui s'est passé.
 Un bourgeon s'apprête à pousser juste au niveau du premier nœud de votre histoire.
 
 ## Le lion et le serpent
@@ -175,7 +176,7 @@ L'espace d'un instant, vous êtes inquiet de l'intérêt que le lion vous manife
 Mais vous découvrez qu'il lèche vos blessures.
 
 > Prenez note de ce qui vous arrive :
-> 
+>
 > - retranchez 20 points au serpent,
 > - 8 au lion,
 > - 2 à vous,
@@ -198,7 +199,7 @@ Il ne faut que peu de temps avant qu'il ne soit occis par les crocs de votre lio
 ![Contre le géant](http://p5.storage.canalblog.com/55/00/546478/47166234_p.jpg)
 
 > Prenez note de ce qui vous arrive :
-> 
+>
 > - indiquez que vous êtes sur la `montagne`,
 > - retranchez 25 points de santé au géant,
 > - retranchez 1 point à votre lion,
@@ -217,10 +218,10 @@ Un souvenir un peu flou vous parvient... Comme si dans une autre réalité, vous
 Faites se rejoindre les deux réalités.
 
 > Dans l'historique :
-> 
+>
 > - cliquez sur la branche `master` puis sur `checkout`.
 > - cliquez sur la branche `fisher-king` puis sur `merge`.
-> 
+>
 > L'équivalent en ligne de commande aurait été `git checkout master && git merge fisher-king`.
 
 Un halo rouge vous alerte sur le paradoxe temporel qui est en cours :
@@ -232,7 +233,7 @@ Entre les deux états de santé, choisissez le meilleur (vous n'avez pas vraimen
 
 > Une fois que le contenu de `etat.yml` a été modifié pour garder "le meilleur des deux mondes" (et que les chevrons qui marquent les conflits ont été supprimés),
 > indiquez que les conflits sont résolus (`Conflicts` > `Mark as resolved`) et achevez la fusion (`Continue merge`).
-> 
+>
 > L'équivalent en ligne de commande aurait été `git add` et `git commit`.
 
 Votre baguette magique a désormais une forme des plus curieuses : la petite branche rejoint la branche principale.
@@ -240,7 +241,6 @@ Votre baguette magique a désormais une forme des plus curieuses : la petite bra
 Traversez le pont de l'épée et pénétrez dans le château.
 
 ![Le pont de l'épée](https://img.over-blog-kiwi.com/0/55/18/81/20161112/ob_610402_lancelot-pont-epee-detail.jpg)
-
 
 ## Le roi pêcheur
 
@@ -263,21 +263,21 @@ Il est temps que vous preniez note de ce qui vous est arrivé.
 Le Graal, personne ne l'a jamais vu, ni ne sait ce que c'est : une coupe, une fiole de sang, des rouleaux de parchemin, un antique chaudron celte...
 Qui le sait, si ce n'est vous ?
 
-![Le Graal tel que vous l'avez vu]()
+![Le Graal tel que vous l'avez vu](Graal.png)
 
 > - Dessinez ce que vous avez vu et prenez le dessin en photo.
 > - Déposez le fichier dans ce dossier.
 > - Éditez ce texte, et mettez le nom de votre image dans la référence ci-dessus de sorte qu'elle s'affiche avec le `Markdown preview` de votre éditeur de texte.
-> Dans l'historique, vérifiez que les deux fichiers sont pris en compte (celui qui a été modifié et celui qui est nouveau) et créez une nouvelle entrée.
-> 
+>   Dans l'historique, vérifiez que les deux fichiers sont pris en compte (celui qui a été modifié et celui qui est nouveau) et créez une nouvelle entrée.
+>
 > En ligne de commande, vous auriez eu à utiliser `git add` pour prendre en compte le nouveau fichier, avant de lancer `git commit -a`.
 
-Vous êtes satisfait de la légende qui raconte vos hauts faits ? Publiez la. 
+Vous êtes satisfait de la légende qui raconte vos hauts faits ? Publiez la.
 
 > Dans GitHub, générez un jeton personnel (`Settings` > `Generate new token` > `public_repo` > `Generate token`) et copiez le dans le presse-papier.
-> 
+>
 > Dans l'historique, sélectionnez la branche principale et publiez la dans votre entrepôt (`push`). À la place de votre mot de passe, collez le jeton.
-> 
+>
 > L'équivalent en ligne de commande aurait été `git push`.
 
 Demandez leur avis à vos frères et sœurs d'arme et en retour donnez votre avis sur leur propre légende.
@@ -293,7 +293,7 @@ L'analogie entre Git et un jeu vidéo est reprise de l'incontournable [Git Magic
 
 Les scènes de ce tutoriel sont librement inspirées des romans arthuriens de
 Chrétien de Troyes (XIIe s.) :
-[*Yvain ou le chevalier au lion*](https://fr.wikipedia.org/wiki/Yvain_ou_le_Chevalier_au_lion),
-[*Lancelot ou le chevalier de la charrette*](https://fr.wikipedia.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette), [*Perceval ou le conte du Graal*](https://fr.wikipedia.org/wiki/Perceval_ou_le_Conte_du_Graal).
+[_Yvain ou le chevalier au lion_](https://fr.wikipedia.org/wiki/Yvain_ou_le_Chevalier_au_lion),
+[_Lancelot ou le chevalier de la charrette_](https://fr.wikipedia.org/wiki/Lancelot_ou_le_Chevalier_de_la_charrette), [_Perceval ou le conte du Graal_](https://fr.wikipedia.org/wiki/Perceval_ou_le_Conte_du_Graal).
 
 Certaines images référencées peuvent être protégées par le droit d'auteur.
