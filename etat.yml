@@ -1,4 +1,5 @@
-lieu: fontaine
+
+lieu: pont de l'épée
 inventaire:  
   -baguette
   -épée longue
@@ -8,8 +9,8 @@ personnages:
   - chevalier_noir:
     - santé: 0
   - lion:
-    - santé: 20
+    - santé: 11
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
