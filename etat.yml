@@ -1,14 +1,16 @@
-lieu: fontaine
-inventaire:s  
+lieu: chemin
+inventaire:  
   -baguette
+  -épée longue
+  -lion	
 personnages:
   - moi:
-    - santé: 6
+    - santé: -2
   - chevalier_noir:
-    - santé: 9
+    - santé: 0
   - lion:
-    - santé: 20
+    - santé: 12
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
