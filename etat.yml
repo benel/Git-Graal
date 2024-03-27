@@ -1,11 +1,13 @@
-lieu: table-ronde
+lieu: fontaine
 inventaire:
   - cheval
+  -baguette
+  -epee longue
 personnages:
   - moi:
-    - santé: 10
+    - santé: 01
   - chevalier_noir:
-    - santé: 15
+    - santé: 00
   - lion:
     - santé: 20
   - serpent:
