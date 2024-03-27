@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lieu: fontaine
 inventaire:
   - cheval
@@ -5,12 +6,13 @@ inventaire:
   -epee longue
 personnages:
   - moi:
-    - santé: 01
+    - santé: 018
+>>>>>>> fisher-king
   - chevalier_noir:
     - santé: 00
   - lion:
-    - santé: 20
+    - santé: 12
   - serpent:
-    - santé: 20
+    - santé: 00
   - géant:
     - santé: 25
